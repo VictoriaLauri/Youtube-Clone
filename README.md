@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/VictoriaLauri/Youtube/blob/main/Icons/youtube-logo.svg" alt="Logo" height="50">
 
-  <h1> YouTube Clone Fron-End Project</h1>
+  <h1> YouTube Clone Front-End Project</h1>
   
   <a href="https://victorialauri.github.io/Youtube-Clone/">View Project in Browser »</a>
 </div>
@@ -23,6 +23,8 @@ This front-end project is a clone of the home page of the popular video-sharing 
 - tooltips
 - Google fonts integration
 - CSS z-index property
+
+The project has been built using an open-source HTML and CSS course curriculum as a reference. However, it is not limited to the course original curriculum, and a range of additional features and improvements have been implemented to match the resemblance to the newest version of Youtube interface both visually and conceptually. 
 
 
 ## Technologies Utilized
