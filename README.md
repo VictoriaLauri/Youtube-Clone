@@ -1,13 +1,11 @@
 <a name="readme-top"></a>
 <br>
 <div align="center">
-  <a href="https://github.com/YourUsername/YouTube-Clone">
-    <img src="https://github.com/RanitManik/YouTube-clone/assets/138437760/1bd7f49a-ca8b-481f-b208-4da9d35e65b7" alt="Logo" height="50">
-  </a>
-<h1> YouTube Clone Fron-End Project</h1>
+  <img src="https://github.com/VictoriaLauri/Youtube/blob/main/Icons/youtube-logo.svg" alt="Logo" height="50">
+
+  <h1> YouTube Clone Fron-End Project</h1>
   
-<a href="https://ranitmanik.github.io/YouTube-clone/">View in Browser »</a>
-<br >
+  <a href="https://ranitmanik.github.io/YouTube-clone/">View in Browser »</a>
 </div>
 <br>
 
