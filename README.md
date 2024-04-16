@@ -5,7 +5,7 @@
 
   <h1> YouTube Clone Fron-End Project</h1>
   
-  <a href="https://ranitmanik.github.io/YouTube-clone/">View in Browser »</a>
+  <a href="https://victorialauri.github.io/Youtube-Clone/">View Project in Browser »</a>
 </div>
 <br>
 
