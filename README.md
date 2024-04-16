@@ -9,15 +9,20 @@
 </div>
 <br>
 
-![main](https://github.com/RanitManik/YouTube-clone/assets/138437760/04041585-7d3f-4b4d-b8ee-5d78ca766ba6)
+![main](https://github.com/VictoriaLauri/Youtube/blob/main/Assets/youtube-project-screenshot.png)
 
 
 ## About This Project
 
-This front-end project is a clone of the home page of the popular video-sharing platform, YouTube. The aim is to recreate the layout of the familiar user interface of YouTube, including the header, the sidebar and a variety of videos arranged in a grid style.
-
-
-Feel free to explore and contribute to enhance the project further!
+This front-end project is a clone of the home page of the popular video-sharing platform, YouTube. The aim is to recreate the layout of the familiar user interface of YouTube, including the header, the sidebar and a variety of videos arranged in a grid style. The project is built using HTML5 and CSS3 only and features the use of the following:
+- responsive design
+- CSS grid
+- flexbox
+- fixed, relative, and absolute element positions
+- text truncation
+- tooltips
+- Google fonts integration
+- CSS z-index property
 
 
 ## Technologies Utilized
